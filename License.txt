@@ -1,8 +1,8 @@
 Working Servers:
 [
     ql-rp = true, everything;
-    kaww = false, only sprits;
-    xdzombies = false only sprites;
+    kaww = false, only sprites;
+    zf = true, scripts and sprites;
     tc = false, only sprites
     more.. = sprites only
 ]
